@@ -1894,6 +1894,10 @@ table th {
 }
 
 .c39 {
+    border-color: #43434386;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-left-style: solid;
     background-color: #ffffff;
     max-width: 496.8pt;
     padding: 21.6pt 57.6pt 14.4pt 57.6pt
