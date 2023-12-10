@@ -1,5 +1,9 @@
 @import url(https://themes.googleusercontent.com/fonts/css?kit=xTOoZr6X-i3kNg7pYrzMss5-x8zqu-667uHWljev_4A);
 
+.center {
+    margin: auto;
+}
+
 .lst-kix_list_14-1>li:before {
     content: "o  "
 }
@@ -1894,7 +1898,8 @@ table th {
 }
 
 .c39 {
-    border-color: #43434386;
+    box-shadow: 4px 4px lightgray;
+    border-color: darkgrey;
     border-style: solid;
     background-color: #ffffff;
     max-width: 496.8pt;
