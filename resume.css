@@ -1898,9 +1898,10 @@ table th {
 }
 
 .c39 {
-    box-shadow: 4px 4px lightgray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /* box-shadow: 8px 8px 6px lightgray; */
     border-color: darkgrey;
-    border-style: solid;
+    /* border-style: solid; */
     background-color: #ffffff;
     max-width: 496.8pt;
     padding: 21.6pt 57.6pt 14.4pt 57.6pt
