@@ -4,6 +4,10 @@
     margin: auto;
 }
 
+.pretty-border {
+    box-shadow: 4px 4px lightgray;
+    border-color: darkgrey;
+}
 .lst-kix_list_14-1>li:before {
     content: "o  "
 }
